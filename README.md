@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+https://github.com/NabihUzcategui/Flutter-Blurred-Bottom-Navigation-Bar/assets/99839506/db1d34e1-2ed4-408a-90c0-62400f15b6f9
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
